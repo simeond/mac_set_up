@@ -50,6 +50,7 @@ brew cask install  font-roboto-mono
 brew install git
 brew install tree
 brew install pandoc
+brew insall gmp
 
 
 # Core casks
