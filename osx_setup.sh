@@ -83,7 +83,7 @@ brew cask install --appdir="/Applications" fantastical
 brew cask install --appdir="/Applications" omnigraffle
 brew cask install --appdir="/Applications" adobe-reader
 brew cask install --appdir="/Applications" sourcetree
-
+brew cask install --appdir="/Applications" phantomjs
 
 # DATA & ANALYTIC TOOLS
 
