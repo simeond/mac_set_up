@@ -94,6 +94,7 @@ brew install psqlodbc
 brew install mysql
 brew install sqliteodbc
 brew install pandoc
+brew install phantomjs
 
 # Install Python
 # Use Anaconda
