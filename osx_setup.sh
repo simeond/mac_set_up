@@ -51,6 +51,8 @@ brew install git
 brew install tree
 brew install pandoc
 brew insall gmp
+brew install node
+ 
 
 
 # Core casks
