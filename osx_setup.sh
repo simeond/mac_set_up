@@ -44,6 +44,7 @@ brew cask install  font-fontawesome
 brew cask install  font-roboto
 brew cask install  font-roboto-condensed
 brew cask install  font-roboto-mono
+brew cask install  font-hack-nerd-font
 
 
 # Install other useful binaries.
