@@ -44,12 +44,16 @@ brew cask install  font-fontawesome
 brew cask install  font-roboto
 brew cask install  font-roboto-condensed
 brew cask install  font-roboto-mono
+brew cask install  font-hack-nerd-font
 
 
 # Install other useful binaries.
 brew install git
 brew install tree
 brew install pandoc
+brew insall gmp
+brew install node
+ 
 
 
 # Core casks
@@ -82,7 +86,7 @@ brew cask install --appdir="/Applications" fantastical
 brew cask install --appdir="/Applications" omnigraffle
 brew cask install --appdir="/Applications" adobe-reader
 brew cask install --appdir="/Applications" sourcetree
-
+brew cask install --appdir="/Applications" phantomjs
 
 # DATA & ANALYTIC TOOLS
 
@@ -93,6 +97,7 @@ brew install psqlodbc
 brew install mysql
 brew install sqliteodbc
 brew install pandoc
+brew install phantomjs
 
 # Install Python
 # Use Anaconda
